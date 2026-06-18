@@ -1,4 +1,3 @@
-
 # 🚗 Vehicle Parking Web App
 
 A full-stack web application that allows users to view and book parking spots in various parking lots. Admins can manage lots, monitor reservations, and release a spot after collecting payment from the customer. They can also see the summary of past reservations.
