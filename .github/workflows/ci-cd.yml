@@ -20,7 +20,7 @@ permissions:
 
 env:
     DOCKER_REGISTRY: ghcr.io
-    BACKEND_IMAGE: ghcr.io/${{ github.repository }}/vpa
+    BACKEND_IMAGE: ghcr.io/${{ github.repository }}/vehicle-parking-app/vpa
 
 
 jobs:

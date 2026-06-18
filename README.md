@@ -92,4 +92,4 @@ pip install -r requirements.txt
 
 
 🙋‍♂️ Author
-Prakash Tiwari – @22f1000252
+Prakash Tiwari
